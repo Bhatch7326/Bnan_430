@@ -1,1 +1,8 @@
 https://public.tableau.com/app/profile/bryce.hatch/viz/BNAN430Portfolio/PowerBIPath-nSouthwestOfficeSolutions?publish=yes
+ Introduction to DAX in Power BI (DataCamp) 
+
+
+
+**Tableau story:** [View story] https://public.tableau.com/app/profile/bryce.hatch/viz/BNAN430Portfolio/PowerBIDaxCertification?publish=yes 
+
+In my Flex 4 Account Portfolio Dashboard, I calculated Net Contributions for each account as Sum of Profit minus Cost to Serve, then summed it by Tier in the Tier Net Contribution chart, which showed Managed at $24,150, Self-Serve at $15,397, and Inside Sales at -$16,822. In Power BI I would build the tier total as a measure rather than a calculated column, because it has to recalculate every time a reader changes the Segment or Tier filter or clicks a bar, and a value stored on each row cannot respond to those selections. Written once in the data model, the same measure would feed the scatterplot, the Top 10 chart and the account list, instead of being rebuilt in each view. For Anita and Marcus, that means they can filter to any segment or tier during a meeting and see accurate contribution numbers right away, without waiting for me to rebuild the report.
