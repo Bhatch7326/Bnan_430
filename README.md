@@ -17,3 +17,7 @@ At Southwest I would keep Excel for one-off reconciliations, quick ad hoc questi
 ##BNAN 430
 **Completed:** October 19, 2026 
 Advancing in Excel and Tableau Pt. 3  Which non-contactless cards should Bear Down Bank replace early this quarter to maximize customer benefit while avoiding unnecessary replacement costs? https://public.tableau.com/app/profile/bryce.hatch/viz/BearDownBankCardPortfolioReview/PortfolioOverview?publish=yes If I were to do this again, I would focus more on each sheet individually, and then worry about the dashboard.
+
+##BNAN 430
+**Completed:** October 26, 2026 
+- **Advancing in Excel & Tableau – Pt. 4 (Wildcat Rewards Card):** Which group of Bear Down Bank customers should receive the Wildcat Rewards Card pilot mailing, and how many qualify under Credit Risk's guardrails at a 670 FICO cutoff? https://public.tableau.com/app/profile/bryce.hatch/viz/Bnan430Flex9/ExploratoryDashboard#1 If I did it again, I would test more pilot groups, such as generation within region, before choosing the five-state group.
