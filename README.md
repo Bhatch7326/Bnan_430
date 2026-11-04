@@ -21,3 +21,15 @@ Advancing in Excel and Tableau Pt. 3  Which non-contactless cards should Bear Do
 ##BNAN 430
 **Completed:** October 26, 2026 
 - **Advancing in Excel & Tableau – Pt. 4 (Wildcat Rewards Card):** Which group of Bear Down Bank customers should receive the Wildcat Rewards Card pilot mailing, and how many qualify under Credit Risk's guardrails at a 670 FICO cutoff? https://public.tableau.com/app/profile/bryce.hatch/viz/Bnan430Flex9/ExploratoryDashboard#1 If I did it again, I would test more pilot groups, such as generation within region, before choosing the five-state group.
+
+
+
+**Nov 2, 2026 · Data Storytelling with Adobe Express**
+
+Work sample for Mei Tanaka, Director of Fraud Prevention at Bear Down Bank: run the PIN-reset campaign, starting with the 150 customers whose PINs are 20+ years old.
+
+[Work sample (PDF)](https://github.com/Bhatch7326/Bnan_430/blob/main/adobe/hatch-data-storytelling(1).pdf) · [Adobe Express] https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:169fa485-a0fb-5187-b7e4-5ad5a5ce381d?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other 
+
+Design choice: I used three ranked bars labeled by contact order instead of a histogram of PIN age across all 5,802 cards, because Mei's decision is who to contact first, and the bars turn the 594 long-unchanged customers into a clear sequence of 150, 187, and 257. I removed the debit and credit split of the affected cards; Mei's team contacts customers, not card types, so removing it kept the page focused on who to contact first.
+
+Training completed: Nov 2, 2026
