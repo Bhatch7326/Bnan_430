@@ -33,3 +33,11 @@ Work sample for Mei Tanaka, Director of Fraud Prevention at Bear Down Bank: run 
 Design choice: I used three ranked bars labeled by contact order instead of a histogram of PIN age across all 5,802 cards, because Mei's decision is who to contact first, and the bars turn the 594 long-unchanged customers into a clear sequence of 150, 187, and 257. I removed the debit and credit split of the affected cards; Mei's team contacts customers, not card types, so removing it kept the page focused on who to contact first.
 
 Training completed: Nov 2, 2026
+
+**Nov 17, 2026 · Product Pitch with Generative AI in Adobe Express**
+
+Pitch to Mei Tanaka, Director of Fraud Prevention at Bear Down Bank: approve a six-week first phase to contact the 150 customers whose PINs are 20 or more years old.
+
+(https://github.com/Bhatch7326/Bnan_430/blob/main/adobe/hatch-product-pitch-draft.pdf)  · (https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:85c6bc86-6354-5200-80e8-763c3cbbcb4d?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
+
+Toughest objection: "Your data has no fraud losses in it, so how do I know old PINs are worth the effort?" Slide 6 answers it: the deck makes no savings claim, and phase 1 is limited to 150 customers and ends with a before-and-after exposure count, so the decision on the other 444 rests on measured results.
