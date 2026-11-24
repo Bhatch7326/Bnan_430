@@ -41,3 +41,12 @@ Pitch to Mei Tanaka, Director of Fraud Prevention at Bear Down Bank: approve a s
 (https://github.com/Bhatch7326/Bnan_430/blob/main/adobe/hatch-product-pitch-draft.pdf)  · (https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:85c6bc86-6354-5200-80e8-763c3cbbcb4d?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
 
 Toughest objection: "Your data has no fraud losses in it, so how do I know old PINs are worth the effort?" Slide 6 answers it: the deck makes no savings claim, and phase 1 is limited to 150 customers and ends with a before-and-after exposure count, so the decision on the other 444 rests on measured results.
+
+
+**November 23, 2026 · Brand Standard Application in Tableau**
+
+Rebranded a public IMDb movie dashboard, then built a brief for Alicia Grant, Manager of Advertiser Partnerships: do family-friendly (G, PG, PG-13) movies draw enough audience engagement to support their own ad package?
+
+[Tableau workbook](https://public.tableau.com/app/profile/bryce.hatch/viz/Hatch_Flex12/IMDbMovieExplorer)
+
+One thing I'd change: I would pick the dark theme and build the brand palette before touching any chart. Switching themes mid-build means redoing every text and mark color.
